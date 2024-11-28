@@ -23,7 +23,7 @@ This project collects a set of research resources and releases open datasets for
 | Dataset Name | Description | Downloading |
 |:------:|:--------| :------:|
 | [DCGen](https://github.com/WebPAI/DCGen)  | 120 more-complicated real-world static webpages | [:arrow_upper_right:​](https://github.com/yxwan123/DCGen) |
-| [[Interaction-to-code](https://github.com/WebPAI/DCGen)](https://github.com/WebPAI/Interaction2Code)  | 97 real-world user-interactive webpages | [:arrow_upper_right:](https://github.com/WebPAI/Interaction2Code) |
+| [Interaction-to-code](https://github.com/WebPAI/Interaction2Code)  | 97 real-world user-interactive webpages | [:arrow_upper_right:](https://github.com/WebPAI/Interaction2Code) |
 | [Design-to-code](https://salt-nlp.github.io/Design2Code)  | 484 static real-world webpages | [:arrow_upper_right:](https://huggingface.co/datasets/SALT-NLP/Design2Code) |
 
 
