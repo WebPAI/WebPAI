@@ -17,7 +17,7 @@ This project collects a set of research resources and releases open datasets for
 | [Interaction-to-code](https://github.com/WebPAI/Interaction2Code) | [Interaction2Code: How Far Are We From Automatic Interactive Webpage Generation?](https://arxiv.org/pdf/2411.03292) | [@xjywhu](https://github.com/xjywhu) |
 | [MRWeb](https://github.com/WebPAI/MRWeb) | [MRWeb: An Exploration of Generating Multi-Page Resource-Aware Web Code from UI Designs](https://arxiv.org/pdf/2412.15310) | [@yxwan123](https://github.com/yxwan123/) |
 | [DesignBench](https://github.com/WebPAI/DesignBench) | [DesignBench: A Comprehensive Benchmark for MLLM-based Front-end Code Generation](https://arxiv.org/pdf/2506.06251) | [@xjywhu](https://github.com/xjywhu) |
-| [ScreenCoder](https://github.com/leigest519/ScreenCoder) | [ScreenCoder: Advancing Visual-to-Code Generation for Front-End Automation via Modular Multimodal Agents](https://arxiv.org/pdf/2507.22827)) | [@leigest519](https://github.com/leigest519) |
+| [ScreenCoder](https://github.com/leigest519/ScreenCoder) | [ScreenCoder: Advancing Visual-to-Code Generation for Front-End Automation via Modular Multimodal Agents](https://arxiv.org/pdf/2507.22827) | [@leigest519](https://github.com/leigest519) |
 
 
 ## Datasets
