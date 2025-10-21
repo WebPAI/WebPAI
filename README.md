@@ -19,7 +19,7 @@ This project collects a set of research resources and releases open datasets for
 | [DesignBench](https://github.com/WebPAI/DesignBench) | [DesignBench: A Comprehensive Benchmark for MLLM-based Front-end Code Generation](https://arxiv.org/pdf/2506.06251) | [@xjywhu](https://github.com/xjywhu) |
 | [ScreenCoder](https://github.com/leigest519/ScreenCoder) | [ScreenCoder: Advancing Visual-to-Code Generation for Front-End Automation via Modular Multimodal Agents](https://arxiv.org/pdf/2507.22827) | [@leigest519](https://github.com/leigest519) |
 | [EfficientUICoder](https://github.com/WebPAI/EfficientUICoder) | [EfficientUICoder: Efficient MLLM-based UI Code Generation via Input and Output Token Compression](https://arxiv.org/pdf/2509.12159) | [@xjywhu](https://github.com/xjywhu) [@starry1001](https://github.com/starry1001) |
-| [TDDev](https://github.com/WebPAI/TDDev) | [Automatically Generating Web Applications from Requirements Via Multi-Agent Test-Driven Development](https://arxiv.org/abs/2509.25297) | [@yxwan123](https://github.com/yxwan123/) |
+| [TDDev](https://github.com/yxwan123/TDDev) | [Automatically Generating Web Applications from Requirements Via Multi-Agent Test-Driven Development](https://arxiv.org/abs/2509.25297) | [@yxwan123](https://github.com/yxwan123/) |
 
 
 ## Datasets
